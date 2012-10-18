@@ -14,7 +14,7 @@ All you should see is an image that shows up on screen.
 That's it. 
 
 You will also have to edit the directory of where the image lies in the content
-references. Just edit the "BG\\" and enter your desired director path. 
+references. Just edit the "BG\\" and enter your desired directory path. 
 
 Hopefully this gets you up and running! :) 
 
