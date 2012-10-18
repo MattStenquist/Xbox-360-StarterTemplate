@@ -31,7 +31,7 @@ namespace Image
         //Declare Floats - Screen Paramaters 
         float windowWidth;
         float windowHeight;
-        float overScan = 10.0f; //Overscan is the TV'S Render rate
+        float overScan = 10.0f; //Overscan is the border "crop" around the image of the tv. 
         float windowMinX;
         float windowMaxX;
         float windowMinY;
