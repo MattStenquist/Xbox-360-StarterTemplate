@@ -17,3 +17,10 @@ You will also have to edit the directory of where the image lies in the content
 references. Just edit the "BG\\" and enter your desired director path. 
 
 Hopefully this gets you up and running! :) 
+
+All you should see is just an image load up on screen with the Texture2D and
+Rectangle being drawn via the spriteBatch.Draw() and spriteBatch.End; 
+
+Replace image with your own and start making games!
+
+Also the image is sized at HD size. 1920 x 1080.
