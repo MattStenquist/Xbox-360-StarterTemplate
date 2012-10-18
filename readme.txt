@@ -19,7 +19,7 @@ references. Just edit the "BG\\" and enter your desired director path.
 Hopefully this gets you up and running! :) 
 
 All you should see is just an image load up on screen with the Texture2D and
-Rectangle being drawn via the spriteBatch.Draw() and spriteBatch.End; 
+Rectangle being drawn via the spriteBatch.Draw() and spriteBatch.End(); 
 
 Replace image with your own and start making games!
 
