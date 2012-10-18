@@ -1,4 +1,5 @@
-This is a Starter Template for anyone looking to dive into XNA - Xbox 360 programming. 
+This is a Starter Template for anyone looking to dive into XNA - Xbox 360 and Windows game programming. 
+
 All that is included is a backbuffer function called configureScreen(), that aligns
 up the _background.png image on your television screen. You can also run this code
 on Windows.
