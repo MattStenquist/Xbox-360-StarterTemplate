@@ -1,1 +1,19 @@
-EDIT
+This is a Starter Template for anyone looking to dive into XNA - Xbox 360 programming. 
+All thats included is a backbuffer function called configureScreen(), that aligns
+up the _background.png image on your television screen. You can also run this code
+on Windows.
+
+Just create a new Project in Visual C#, added the Xbox XNA template,
+copy past the Game1.CS code, and nothing else. 
+
+Then duplicate your Xbox Game Project into a Windows Version
+Right Click and Debug. 
+
+All you should see is an image that shows up on screen.
+
+That's it. 
+
+You will also have to edit the directory of where the image lies in the content
+references. Just edit the "BG\\" and enter your desired director path. 
+
+Hopefully this gets you up and running! :) 
