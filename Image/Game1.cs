@@ -11,9 +11,7 @@ using Microsoft.Xna.Framework.Media;
 
 namespace Image
 {
-    /// <summary>
-    /// This is the main type for your game
-    /// </summary>
+
     public class Game1 : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;
@@ -54,6 +52,7 @@ namespace Image
             this.graphics.PreferredBackBufferHeight = 1080;
             this.graphics.IsFullScreen = true;
         }
+
         protected override void Initialize()
         {
             ConfigureScreen();
@@ -91,7 +90,6 @@ namespace Image
             windowMaxY = windowHeight - yOverscanMargin;
         }
 
-
         protected override void UnloadContent()
         {
             // TODO: Unload any non ContentManager content here
@@ -108,10 +106,6 @@ namespace Image
             base.Update(gameTime);
         }
 
-        /// <summary>
-        /// This is called when the game should draw itself.
-        /// </summary>
-        /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
