@@ -5,7 +5,7 @@ up the _background.png image on your television screen. You can also run this co
 on Windows.
 
 Just create a new Project in Visual C#, add the Xbox XNA template,
-copy past the Game1.CS code, and nothing else. 
+copy paste the Game1.CS code, and do nothing else. Unless you want to tweak the Texture2D's and Rectangle's. 
 
 Then duplicate your Xbox Game Project into a Windows Version
 Right Click and Debug. 
